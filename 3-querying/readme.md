@@ -10,9 +10,13 @@ https://data.cityofnewyork.us/Health/Most-Popular-Baby-Names-by-Sex-and-Mother-s
 
 There are about 22,000 records here, so not big, but interesting enough. Notice the columns and what values they hold.
 
-#### 2) Download a convenient JSON format of the dataset here:
+#### 2) Download the CSV version of the data:
 
-https://catalog.data.gov/dataset/most-popular-baby-names-by-sex-and-mothers-ethnic-group-new-york-city-8c742
+It's easiest to import the CSV version into mongodb.
+
+We can do this using mongoimport, with the following parameters:
+
+`mongoimport --db baby --collection names --type csv --file babies.csv --headerline`
 
 #### 3) Brainstorm
 
