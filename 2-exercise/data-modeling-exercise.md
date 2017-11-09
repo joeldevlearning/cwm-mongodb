@@ -24,24 +24,6 @@ Ideas for Content:
 
 ---
 
-### 1) Recipe website
-
-##### Goal: Design a JSON document database for a recipe website.
-
-Ideas for Content: 
-
-- [ ] Ingredients
-- [ ] Steps
-- [ ] Comments
-- [ ] Ratings
-
-#### Follow-up questions (assuming your schema went to production):
-
-1. How many queries does it take to get all the data related to a single recipe?
-2. What would a query for the top ten ingredients look like?
-
-------
-
 ### 2) Professional networking site
 
 ##### Goal: Design a JSON document database for a new professional networking site.
