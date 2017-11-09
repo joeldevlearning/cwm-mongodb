@@ -140,7 +140,7 @@ NOTE: More regex goodness @ https://docs.mongodb.com/manual/reference/operator/q
   ```json
   books.updateMany(
   { },
-  {$set: {metainfo}}
+  {$set: {meta}}
   )
   ```
 
