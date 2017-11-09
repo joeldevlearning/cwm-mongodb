@@ -27,12 +27,25 @@ Have any ideas for querying this data? Think a minute.
 Consider the following suggestions:
 
 - (a-1) Find your name!
+
 - (a-2) Find a name close to yours, e.g. ALICE wants to find names that have "AL" in them
+
+- (a-3) Find how many people share your name AND your ethnicity AND your gender
+
+  ​
+
 - (b-1) Sort the names by rank for one ethnic group or one year or one gender
+
 - (b-2) Find the top name for all groups or all years or all genders
+
 - (b-3) Find the least popular name for a year or ethnic group (or both!)
+
+  ​
+
 - (c) Count how many unique names there are
+
 - (d) Count the same name across ethnicities (e.g. how many IRIS babies)?
+
 - (e) Find the ethnic group with the fewest reported births
 
 
