@@ -41,9 +41,12 @@ The mongo shell is introduced in the official documentation:
 https://docs.mongodb.com/manual/mongo/
 
 Start the shell (called "mongo") from the command line and run some commands:
-`"use myFirstDB"`
-`"db.myCollection.insertOne( { whoIsAwesome: "Me"} )`
-`"db.myCollection.find()"`
+
+`use myFirstDB`
+
+`db.myCollection.insertOne( { whoIsAwesome: "Me"} )`
+
+`db.myCollection.find()`
 
 Feel free to experiment and play with more commands.  
 
