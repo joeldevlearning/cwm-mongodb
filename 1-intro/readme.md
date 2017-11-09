@@ -150,7 +150,7 @@ NOTE: More regex goodness @ https://docs.mongodb.com/manual/reference/operator/q
 
 ### 1.5 Destroy all that you've built...
 
-- Let's get drop Superman's book like a hot piece of Kryptonite. First, check that we know how to find it: 
+- Let's drop Superman's book like a hot piece of Kryptonite. First, check that we know how to find it: 
 
   ```json
   books.find( {author: {$regex: /Super/} } ).forEach(printjson)
